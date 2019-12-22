@@ -1,4 +1,4 @@
-package seki.com.app.combinelivedatasmaple
+package seki.com.app.mutliswitchlivedatasmaple
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

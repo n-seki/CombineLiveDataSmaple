@@ -1,4 +1,4 @@
-package seki.com.app.combinelivedatasmaple
+package seki.com.app.mutliswitchlivedatasmaple
 
 import org.junit.Test
 
